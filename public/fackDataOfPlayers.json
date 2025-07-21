@@ -1,0 +1,167 @@
+[
+  {
+    "playerId": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://dxn76xj9mnmqa.cloudfront.net/images/virat-kohli-74.original.format-webp-lossless.webp",
+    "authorImg": "https://dxn76xj9mnmqa.cloudfront.net/images/virat-kohli-74.original.format-webp-lossless.webp",
+    "role": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "biddingPrice": 205000000
+  },
+  {
+    "playerId": 2,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://onecricketnews.akamaized.net/parth-editor/oc-dashboard/news-images-prod/1751190566770_shakib_al_hasan.jpg?type=mq",
+    "authorImg": "https://onecricketnews.akamaized.net/parth-editor/oc-dashboard/news-images-prod/1751190566770_shakib_al_hasan.jpg?type=mq",
+    "role": "All-rounder",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm orthodox",
+    "biddingPrice": 180000000
+  },
+  {
+    "playerId": 3,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202410/babar-azam-223312376-1x1.jpg?VersionId=P5YH7J2lDSy_ioc4jJEbDrm78hp4CRhT",
+    "authorImg": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202410/babar-azam-223312376-1x1.jpg?VersionId=P5YH7J2lDSy_ioc4jJEbDrm78hp4CRhT",
+    "role": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "biddingPrice": 218000000
+  },
+  {
+    "playerId": 4,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://www.livemint.com/lm-img/img/2025/02/10/original/Kane_Williamson__1739193929634.jpg",
+    "authorImg": "https://www.livemint.com/lm-img/img/2025/02/10/original/Kane_Williamson__1739193929634.jpg",
+    "role": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "biddingPrice": 196000000
+  },
+  {
+    "playerId": 5,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "image": "https://khelnow.com/_next/image?url=https%3A%2F%2Fassets.khelnow.com%2Fnews%2Fuploads%2F2025%2F03%2FSteve-Smith-Australia-ODI-scaled.jpg&w=1920&q=75",
+    "authorImg": "https://khelnow.com/_next/image?url=https%3A%2F%2Fassets.khelnow.com%2Fnews%2Fuploads%2F2025%2F03%2FSteve-Smith-Australia-ODI-scaled.jpg&w=1920&q=75",
+    "role": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "biddingPrice": 192000000
+  },
+  {
+    "playerId": 6,
+    "name": "Joe Root",
+    "country": "England",
+    "image": "https://m.economictimes.com/thumb/msid-121554757,width-1200,height-900,resizemode-4,imgsize-95332/joe-root.jpg",
+    "authorImg": "https://m.economictimes.com/thumb/msid-121554757,width-1200,height-900,resizemode-4,imgsize-95332/joe-root.jpg",
+    "role": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "biddingPrice": 189000000
+  },
+  {
+    "playerId": 7,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://blogs.a-sports.tv/wp-content/uploads/2025/04/rashid-khan.png",
+    "authorImg": "https://blogs.a-sports.tv/wp-content/uploads/2025/04/rashid-khan.png",
+    "role": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "biddingPrice": 225000000
+  },
+  {
+    "playerId": 8,
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "image": "https://www.bssnews.net/assets/news_photos/2022/09/04/image-80558-1662278648.jpg",
+    "authorImg": "https://www.bssnews.net/assets/news_photos/2022/09/04/image-80558-1662278648.jpg",
+    "role": "Wicketkeeper",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "None",
+    "biddingPrice": 184000000
+  },
+  {
+    "playerId": 9,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "image": "https://assets.thehansindia.com/h-upload/2023/06/08/1356480-trent-boult.webp",
+    "authorImg": "https://assets.thehansindia.com/h-upload/2023/06/08/1356480-trent-boult.webp",
+    "role": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "biddingPrice": 198000000
+  },
+  {
+    "playerId": 10,
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "image": "https://www.tbsnews.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/images/2022/01/24/shaheen_afridi.jpg",
+    "authorImg": "https://www.tbsnews.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/images/2022/01/24/shaheen_afridi.jpg",
+    "role": "Bowler",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "biddingPrice": 201000000
+  },
+  {
+    "playerId": 11,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://www.livemint.com/lm-img/img/2024/11/27/1600x900/Ben_Stokes_1732700475837_1732700476062.jpg",
+    "authorImg": "https://www.livemint.com/lm-img/img/2024/11/27/1600x900/Ben_Stokes_1732700475837_1732700476062.jpg",
+    "role": "All-rounder",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "biddingPrice": 230000000
+  },
+  {
+    "playerId": 12,
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://www.deccanchronicle.com/h-upload/2024/06/25/1099441-gq6awufbwaayofg.webp",
+    "authorImg": "https://www.deccanchronicle.com/h-upload/2024/06/25/1099441-gq6awufbwaayofg.webp",
+    "role": "Batsman",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "biddingPrice": 182000000
+  },
+  {
+    "playerId": 13,
+    "name": "Rohit Sharma",
+    "country": "India",
+    "image": "https://wallpapers.com/images/hd/rohit-sharma-strategy-for-national-team-vuos76uglt9hcm0t.jpg",
+    "authorImg": "https://wallpapers.com/images/hd/rohit-sharma-strategy-for-national-team-vuos76uglt9hcm0t.jpg",
+    "role": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "biddingPrice": 229000000
+  },
+  {
+    "playerId": 14,
+    "name": "Taskin Ahmed",
+    "country": "Bangladesh",
+    "image": "https://cricfit.com/wp-content/uploads/2022/03/252917.jpg",
+    "authorImg": "https://cricfit.com/wp-content/uploads/2022/03/252917.jpg",
+    "role": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "biddingPrice": 187000000
+  },
+  {
+    "playerId": 15,
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "image": "https://e2betindia.com/wp-content/uploads/2024/11/Screenshot-2024-11-17-164901-1024x576.jpg",
+    "authorImg": "https://e2betindia.com/wp-content/uploads/2024/11/Screenshot-2024-11-17-164901-1024x576.jpg",
+    "role": "All-rounder",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "biddingPrice": 212000000
+  }
+]
