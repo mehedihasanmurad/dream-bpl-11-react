@@ -1,17 +1,15 @@
 import React, { useState } from 'react';
 import Logo from '../../assets/logo.png'
 import { TbCoin } from "react-icons/tb";
-import Banner from '../Banner/Banner';
-import { ToastContainer, toast } from 'react-toastify';
-const Header = () => {
-    const [coins, setCoins] = useState(0);
-    const handleCoin = () => {
-        toast.success("Coins ar added", {
-            position: "top-center"
-        })  
+const Header = ({coins}) => {
+    // const [coins, setCoins] = useState(0);
+    // const handleCoin = () => {
+    //     toast.success("Coins ar added", {
+    //         position: "top-center"
+    //     })  
         
-        setCoins(coins + 600000000);
-    }
+    //     setCoins(coins + 600000000);
+    // }
     return (
         <nav className='max-w-7xl mx-auto'>
             <div className='flex justify-between items-center my-10 sticky top-0 z-10 bg-slate-50'>
@@ -31,8 +29,6 @@ const Header = () => {
                     </div>
                 </div>
             </div>
-            <Banner handleCoin={handleCoin}></Banner>
-            <ToastContainer></ToastContainer>
         </nav>
     );
 };
