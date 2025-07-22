@@ -1,11 +1,11 @@
 import { useState } from 'react'
 import './App.css'
-import Available from './components/Available/Available'
 import Banner from './components/Banner/Banner'
 import Header from './components/Header/Header'
 import Players from './components/Players/Players'
  import { ToastContainer, toast } from 'react-toastify';
-import Selected from './components/Selected/Selected'
+import NewsLetter from './components/NewsLetter/NewsLetter'
+import Footer from './components/Footer/Footer'
 
 function App() {
   const [coins, setCoins] = useState(0);
@@ -31,8 +31,9 @@ function App() {
     <>
       <Header coins={coins}></Header>
       <Banner handleCoins={handleCoins}></Banner>
-      <Available></Available>
       <Players handlePlayerPrice={handlePlayerPrice}></Players>
+      <NewsLetter></NewsLetter>
+      <Footer></Footer>
       <ToastContainer></ToastContainer>
     </>
   )
